@@ -1,0 +1,6 @@
+{
+  "name": "Smart Traffic - Urban Congestion Prediction & Hotspot Analysis",
+  "description": "Urban traffic telemetry platform with a 6,000+ row dataset, Level 1 Analytics, Level 2 Machine Learning Prediction, Level 3 Decision Recommendations, and VS Code step-by-step project guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
